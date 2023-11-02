@@ -6,4 +6,5 @@
     - [Тинькофф Пульс](/data/Tinkoff/tinkoff_puls.ipynb)
     - [Финам](/data/Finam/README.md)
     - [Московская биржа](/data/MOEX/MOEX.ipynb)
+* Этап 2. EDA:
 
