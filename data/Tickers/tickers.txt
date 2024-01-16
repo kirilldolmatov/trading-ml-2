@@ -1,0 +1,248 @@
+AFLT:Аэрофлот
+VTBR:ВТБ ао
+GAZP:ГАЗПРОМ ао
+GMKN:ГМКНорНик
+LKOH:ЛУКОЙЛ
+MTSS:МТС-ао
+MGNT:Магнит ао
+MOEX:МосБиржа
+NLMK:НЛМК ао
+ROSN:Роснефть
+RTKM:Ростел -ао
+HYDR:РусГидро
+SBER:Сбербанк
+CHMF:СевСт-ао
+SNGS:Сургнфгз
+PLZL:Полюс
+YNDX:Yandex clA
+NVTK:Новатэк ао
+TATN:Татнфт 3ао
+SNGSP:Сургнфгз-п
+TRNFP:Транснф ап
+ASTR:Астра ао
+ALRS:АЛРОСА ао
+SBERP:Сбербанк-п
+MTLR:Мечел ао
+TCSG:TCS-гдр
+MAGN:ММК
+FLOT:Совкомфлот
+PHOR:ФосАгро ао
+POLY:Polymetal
+RUAL:РУСАЛ ао
+SMLT:Самолет ао
+VKCO:Вконтакте
+OZON:OZON-адр
+SOFL:iСофтлайн
+SIBN:Газпрнефть
+FIVE:FIVE-гдр
+AFKS:Система ао
+IRAO:ИнтерРАОао
+BSPB:БСП ао
+NMTP:НМТП ао
+BELU:НоваБев ао
+FESH:ДВМП ао
+POSI:iПозитив
+TRMK:ТМК ао
+RNFT:РуссНфт ао
+SGZH:Сегежа
+BANEP:Башнефт ап
+RASP:Распадская
+CBOM:МКБ ао
+FEES:Россети
+SELG:Селигдар
+TATNP:Татнфт 3ап
+UWGN:TQPI:ОВК ао
+ROLO:Русолово
+PIKK:ПИК ао
+UPRO:Юнипро ао
+AGRO:AGRO-гдр
+MSNG:+МосЭнерго
+GLTR:GLTR-гдр
+SVAV:СОЛЛЕРС
+KMAZ:КАМАЗ
+TGKA:ТГК-1
+MTLRP:Мечел ап
+UNAC:iАвиастКао
+IRKT:Яковлев-3
+OGKB:ОГК-2 ао
+GTRK:ГТМ ао
+ENPG:ЭН+ГРУП ао
+AQUA:ИНАРКТИКА
+AMEZ:АшинскийМЗ
+BLNG:Белон ао
+GECO:iГЕНЕТИКО
+LSRG:ЛСР ао
+ABIO:iАРТГЕН ао
+LIFE:iФармсинтз
+AKRN:Акрон
+MVID:М.видео
+WUSH:iВУШХолднг
+NKHP:НКХП ао
+FIXP:FIXP-гдр
+CARM:СТГ
+TTLK:Таттел. ао
+BANE:Башнефт ао
+LSNG:РСетиЛЭ
+VSMO:ВСМПО-АВСМ
+QIWI:iQIWI
+ELFV:ЭЛ5Энер ао
+RTKMP:Ростел -ап
+LNZLP:Лензол. ап
+ABRD:АбрауДюрсо
+MSTT:Мостотрест
+MRKP:РСетиЦП ао
+KZOSP:ОргСинт ап
+APTK:Аптеки36и6
+GCHE:ЧеркизГ-ао
+KZOS:ОргСинт ао
+DVEC:ДЭК ао
+LSNGP:РСетиЛЭ-п
+LNZL:Лензолото
+MRKC:РоссЦентр
+RENI:Ренессанс
+KROT:КрасОкт-ао
+TGKN:ТГК-14
+NKNC:НКНХ ао
+HHRU:iHHRU-адр
+MDMG:MDMG-гдр
+MGTSP:МГТС-4ап
+ETLN:ETLN-гдр
+KLSB:КалужскСК
+KAZT:Куйбазот
+MSRS:РСетиМР ао
+TGKB:ТГК-2
+NSVZ:iНаукаСвяз
+SFIN:ЭсЭфАй ао
+RKKE:ЭнергияРКК
+MRKZ:РСетиСЗ ао
+NKNCP:НКНХ ап
+CNTLP:Телеграф-п
+VRSB:ТНСэнВорон
+CNTL:Телеграф
+PRFN:ЧЗПСН ао
+CHMK:ЧМК ао
+MRKV:РсетВол ао
+LENT:Лента ао
+KRKNP:СаратНПЗ-п
+INGR:ИНГРАД ао
+PMSB:ПермьЭнСб
+YAKG:ЯТЭК ао
+MRKS:РсетСиб ао
+MRKU:Россети Ур
+DSKY:ДетскийМир
+UNKL:ЮУНК ао
+MRKY:РоссЮг ао
+OKEY:OKEY-гдр
+KAZTP:Куйбазот-п
+TGKBP:ТГК-2 ап
+KUBE:РСетКубань
+PMSBP:ПермьЭнС-п
+AVAN:Авангрд-ао
+SVET:Светофор
+RGSS:РГС СК ао
+ZVEZ:ЗВЕЗДА ао
+NFAZ:НЕФАЗ
+NAUK:iНПОНаука
+MRKK:Россети СК
+ELTZ:Электрцинк
+GAZA:ГАЗ ао
+EELT:ЕвроЭлтех
+IGST:Ижсталь2ао
+DIOD:ЗаводДИОД
+KCHE:КамчатЭ ао
+RBCM:ГК РБК ао
+NKSH:Нижкамшина
+HIMCP:Химпром ап
+SLEN:Сахэнер ао
+TNSE:ТНСэнрг ао
+BRZL:БурЗолото
+UTAR:ЮТэйр ао
+USBN:УралСиб ао
+VLHZ:ВХЗ-ао
+PAZA:ПавлАвт ао
+LVHK:Левенгук
+RUSI:ИКРУСС-ИНВ
+ROST:РОСИНТЕРао
+KUZB:КузнецкийБ
+ZILL:ЗИЛ ао
+TUZA:ТЗА ао
+KROTP:КрасОкт-1п
+IGSTP:Ижсталь ап
+LPSB:TQPI:ЛЭСК ао
+VGSB:ВолгЭнСб
+KMEZ:КМЗ
+RZSB:РязЭнСб
+YKEN:Якутскэнрг
+KBSB:ТНСэКубань
+VRSBP:ТНСэнВор-п
+STSBP:СтаврЭнСбп
+VSYD:ВыбСудЗ ао
+SAGO:СамарЭн-ао
+CHGZ:РН-ЗапСиб
+SARE:СаратЭн-ао
+MRSB:МордЭнСб
+RTSB:ТНСэнРст
+KRSB:Красэсб ао
+MFGSP:Мегион-ап
+OMZZP:ОМЗ-ап
+UKUZ:ЮжКузб. ао
+MISBP:ТНСэМаЭл-п
+CHKZ:ЧКПЗ ао
+MGTS:МГТС-5ао
+ASSB:АстрЭнСб
+MFGS:Мегион-ао
+GEMA:iММЦБ ао
+MAGEP:МагадЭн ап
+DZRDP:ДонскЗР п
+RTSBP:ТНСэнРст-п
+TASB:ТамбЭнСб
+VJGZ:Варьеган
+ARSA:Арсагера
+MISB:ТНСэнМарЭл
+WTCM:ЦМТ ао
+KRKOP:ТКЗКК ап
+YRSB:ТНСэнЯр
+JNOSP:Слав-ЯНОСп
+BISVP:БашИнСв ап
+VGSBP:ВолгЭнСб-п
+STSB:СтаврЭнСб
+SAREP:СаратЭн-ап
+KTSB:КСБ ао
+NNSB:ТНСэнНН ао
+YKENP:Якутскэн-п
+DZRD:ДонскЗР
+YRSBP:ТНСэнЯр-п
+WTCMP:ЦМТ ап
+VSYDP:ВыбСудЗ ап
+KCHEP:КамчатЭ ап
+TORS:ТРК ао
+VJGZP:Варьеган-п
+KRSBP:Красэсб ап
+GAZAP:ГАЗ ап
+PRMB:Приморье
+TORSP:ТРК ап
+SAGOP:СамарЭн-ап
+ROSB:Росбанк ао
+KOGK:КоршГОК ао
+HMSG:HMSG-гдр
+JNOS:Славн-ЯНОС
+TASBP:ТамбЭнСб-п
+KGKCP:КурганГКап
+URKZ:УрКузница
+NNSBP:ТНСэнНН ап
+SPBE:СПБ Биржа
+KTSBP:КСБ ап
+RTGZ:ГазпРнД ао
+MAGE:МагадЭн ао
+RDRB:РДБанк ао
+SLAV:MTQR:Славнефть
+CIAN:CIAN-адр
+NOMPP:MTQR:Новошип ап
+GEMC:GEMC-гдр
+ORUP:MTQR:ОРГ ао
+NTZL:MTQR:НИТЕЛ ао
+KGKC:КурганГКао
+BSPBP:БСП ап
+ZILLP:MTQR:ЗИЛ ап
+KRKN:СаратНПЗ
+

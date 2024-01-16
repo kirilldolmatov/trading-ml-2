@@ -1,0 +1,301 @@
+em,_company_name,link,ticker,market_id,market_name
+29,Аэрофлот,https://www.finam.ru/quote/moex/aflt/,AFLT,1,МосБиржа акции
+19043,ВТБ ао,https://www.finam.ru/quote/moex/vtbr/,VTBR,1,МосБиржа акции
+16842,ГАЗПРОМ ао,https://www.finam.ru/quote/moex/gazp/,GAZP,1,МосБиржа акции
+795,ГМКНорНик,https://www.finam.ru/quote/moex/gmkn/,GMKN,1,МосБиржа акции
+8,ЛУКОЙЛ,https://www.finam.ru/quote/moex/lkoh/,LKOH,1,МосБиржа акции
+15523,МТС-ао,https://www.finam.ru/quote/moex/mtss/,MTSS,1,МосБиржа акции
+17086,Магнит ао,https://www.finam.ru/quote/moex/mgnt/,MGNT,1,МосБиржа акции
+152798,МосБиржа,https://www.finam.ru/quote/moex/moex/,MOEX,1,МосБиржа акции
+17046,НЛМК ао,https://www.finam.ru/quote/moex/nlmk/,NLMK,1,МосБиржа акции
+17273,Роснефть,https://www.finam.ru/quote/moex/rosn/,ROSN,1,МосБиржа акции
+7,Ростел -ао,https://www.finam.ru/quote/moex/rtkm/,RTKM,1,МосБиржа акции
+20266,РусГидро,https://www.finam.ru/quote/moex/hydr/,HYDR,1,МосБиржа акции
+3,Сбербанк,https://www.finam.ru/quote/moex/sber/,SBER,1,МосБиржа акции
+16136,СевСт-ао,https://www.finam.ru/quote/moex/chmf/,CHMF,1,МосБиржа акции
+4,Сургнфгз,https://www.finam.ru/quote/moex/sngs/,SNGS,1,МосБиржа акции
+17123,Полюс,https://www.finam.ru/quote/moex/plzl/,PLZL,1,МосБиржа акции
+388383,Yandex clA,https://www.finam.ru/quote/moex/yndx/,YNDX,1,МосБиржа акции
+17370,Новатэк ао,https://www.finam.ru/quote/moex/nvtk/,NVTK,1,МосБиржа акции
+825,Татнфт 3ао,https://www.finam.ru/quote/moex/tatn/,TATN,1,МосБиржа акции
+13,Сургнфгз-п,https://www.finam.ru/quote/moex/sngsp/,SNGSP,1,МосБиржа акции
+1012,Транснф ап,https://www.finam.ru/quote/moex/trnfp/,TRNFP,1,МосБиржа акции
+4577624,Астра ао,https://www.finam.ru/quote/moex/astr/,MOEX.ASTR:TQBR,1,МосБиржа акции
+81820,АЛРОСА ао,https://www.finam.ru/quote/moex/alrs/,ALRS,1,МосБиржа акции
+23,Сбербанк-п,https://www.finam.ru/quote/moex/sberp/,SBERP,1,МосБиржа акции
+21018,Мечел ао,https://www.finam.ru/quote/moex/mtlr/,MTLR,1,МосБиржа акции
+913710,TCS-гдр,https://www.finam.ru/quote/moex/tcsg/,TCSG,1,МосБиржа акции
+16782,ММК,https://www.finam.ru/quote/moex/magn/,MAGN,1,МосБиржа акции
+2101210,Совкомфлот,https://www.finam.ru/quote/moex/flot/,MOEX.FLOT:TQBR,1,МосБиржа акции
+81114,ФосАгро ао,https://www.finam.ru/quote/moex/phor/,PHOR,1,МосБиржа акции
+175924,Polymetal,https://www.finam.ru/quote/moex/poly/,POLY,1,МосБиржа акции
+414279,РУСАЛ ао,https://www.finam.ru/quote/moex/rual/,RUAL,1,МосБиржа акции
+2135775,Самолет ао,https://www.finam.ru/quote/moex/smlt/,MOEX.SMLT:TQBR,1,МосБиржа акции
+2901666,"МКПАО ""ВК""",https://www.finam.ru/quote/moex/vkco/,MOEX.VKCO:TQBR,1,МосБиржа акции
+2179435,OZON-адр,https://www.finam.ru/quote/moex/ozon/,MOEX.OZON:TQBR,1,МосБиржа акции
+4553966,iСофтлайн,https://www.finam.ru/quote/moex/sofl/,MOEX.SOFL:TQBR,1,МосБиржа акции
+2,Газпрнефть,https://www.finam.ru/quote/moex/sibn/,SIBN,1,МосБиржа акции
+491944,FIVE-гдр,https://www.finam.ru/quote/moex/five/,FIVE,1,МосБиржа акции
+19715,Система ао,https://www.finam.ru/quote/moex/afks/,AFKS,1,МосБиржа акции
+20516,ИнтерРАОао,https://www.finam.ru/quote/moex/irao/,IRAO,1,МосБиржа акции
+20066,БСП ао,https://www.finam.ru/quote/moex/bspb/,BSPB,1,МосБиржа акции
+19629,НМТП ао,https://www.finam.ru/quote/moex/nmtp/,NMTP,1,МосБиржа акции
+19651,НоваБев ао,https://www.finam.ru/quote/moex/belu/,BELU,1,МосБиржа акции
+20708,ДВМП ао,https://www.finam.ru/quote/moex/fesh/,FESH,1,МосБиржа акции
+2907747,iПозитив,https://www.finam.ru/quote/moex/posi/,MOEX.POSI:TQBR,1,МосБиржа акции
+18441,ТМК ао,https://www.finam.ru/quote/moex/trmk/,TRMK,1,МосБиржа акции
+465236,РуссНфт ао,https://www.finam.ru/quote/moex/rnft/,RNFT,1,МосБиржа акции
+2477992,Сегежа,https://www.finam.ru/quote/moex/sgzh/,MOEX.SGZH:TQBR,1,МосБиржа акции
+81758,Башнефт ап,https://www.finam.ru/quote/moex/banep/,BANEP,1,МосБиржа акции
+17713,Распадская,https://www.finam.ru/quote/moex/rasp/,RASP,1,МосБиржа акции
+420694,МКБ ао,https://www.finam.ru/quote/moex/cbom/,CBOM,1,МосБиржа акции
+20509,Россети,https://www.finam.ru/quote/moex/fees/,FEES,1,МосБиржа акции
+81360,Селигдар,https://www.finam.ru/quote/moex/selg/,SELG,1,МосБиржа акции
+826,Татнфт 3ап,https://www.finam.ru/quote/moex/tatnp/,TATNP,1,МосБиржа акции
+2896447,ОВК ао,https://www.finam.ru/quote/moex/uwgn/,MOEX.UWGN:TQPI,1,МосБиржа акции
+181316,Русолово,https://www.finam.ru/quote/moex/rolo/,ROLO,1,МосБиржа акции
+18654,ПИК ао,https://www.finam.ru/quote/moex/pikk/,PIKK,1,МосБиржа акции
+18584,Юнипро ао,https://www.finam.ru/quote/moex/upro/,UPRO,1,МосБиржа акции
+399716,AGRO-гдр,https://www.finam.ru/quote/moex/agro/,AGRO,1,МосБиржа акции
+6,+МосЭнерго,https://www.finam.ru/quote/moex/msng/,MSNG,1,МосБиржа акции
+2134426,GLTR-гдр,https://www.finam.ru/quote/moex/gltr/,MOEX.GLTR:TQBR,1,МосБиржа акции
+16080,СОЛЛЕРС,https://www.finam.ru/quote/moex/svav/,SVAV,1,МосБиржа акции
+15544,КАМАЗ,https://www.finam.ru/quote/moex/kmaz/,KMAZ,1,МосБиржа акции
+18382,ТГК-1,https://www.finam.ru/quote/moex/tgka/,TGKA,1,МосБиржа акции
+80745,Мечел ап,https://www.finam.ru/quote/moex/mtlrp/,MTLRP,1,МосБиржа акции
+22843,iАвиастКао,https://www.finam.ru/quote/moex/unac/,UNAC,1,МосБиржа акции
+15547,Яковлев-3,https://www.finam.ru/quote/moex/irkt/,IRKT,1,МосБиржа акции
+18684,ОГК-2 ао,https://www.finam.ru/quote/moex/ogkb/,OGKB,1,МосБиржа акции
+3728099,LQDT ETF (БПИФ Ликвидность УК ВИМ),https://www.finam.ru/quote/moex/lqdt/,MISX.LQDT,14,МосБиржа фьючерсы
+488918,ГТМ ао,https://www.finam.ru/quote/moex/gtrk/,GTRK,1,МосБиржа акции
+929597,ЭН+ГРУП ао,https://www.finam.ru/quote/moex/enpg/,ENPG,1,МосБиржа акции
+35238,ИНАРКТИКА,https://www.finam.ru/quote/moex/aqua/,AQUA,1,МосБиржа акции
+20702,АшинскийМЗ,https://www.finam.ru/quote/moex/amez/,AMEZ,1,МосБиржа акции
+21078,Белон ао,https://www.finam.ru/quote/moex/blng/,BLNG,1,МосБиржа акции
+4206126,iГЕНЕТИКО,https://www.finam.ru/quote/moex/geco/,MOEX.GECO:TQBR,1,МосБиржа акции
+19736,ЛСР ао,https://www.finam.ru/quote/moex/lsrg/,LSRG,1,МосБиржа акции
+4498995,iАРТГЕН ао,https://www.finam.ru/quote/moex/abio/,MOEX.ABIO:TQBR,1,МосБиржа акции
+74584,iФармсинтз,https://www.finam.ru/quote/moex/life/,LIFE,1,МосБиржа акции
+17564,Акрон,https://www.finam.ru/quote/moex/akrn/,AKRN,1,МосБиржа акции
+19737,М.видео,https://www.finam.ru/quote/moex/mvid/,MVID,1,МосБиржа акции
+3994860,iВУШХолднг,https://www.finam.ru/quote/moex/wush/,MOEX.WUSH:TQBR,1,МосБиржа акции
+450432,НКХП ао,https://www.finam.ru/quote/moex/nkhp/,NKHP,1,МосБиржа акции
+2388781,FIXP-гдр,https://www.finam.ru/quote/moex/fixp/,MOEX.FIXP:TQBR,1,МосБиржа акции
+4439728,СТГ,https://www.finam.ru/quote/moex/carm/,MOEX.CARM:TQBR,1,МосБиржа акции
+18371,Таттел. ао,https://www.finam.ru/quote/moex/ttlk/,TTLK,1,МосБиржа акции
+81757,Башнефт ао,https://www.finam.ru/quote/moex/bane/,BANE,1,МосБиржа акции
+31,РСетиЛЭ,https://www.finam.ru/quote/moex/lsng/,LSNG,1,МосБиржа акции
+15965,ВСМПО-АВСМ,https://www.finam.ru/quote/moex/vsmo/,VSMO,1,МосБиржа акции
+181610,iQIWI,https://www.finam.ru/quote/moex/qiwi/,QIWI,1,МосБиржа акции
+4164144,ЭЛ5Энер ао,https://www.finam.ru/quote/moex/elfv/,MOEX.ELFV:TQBR,1,МосБиржа акции
+15,Ростел -ап,https://www.finam.ru/quote/moex/rtkmp/,RTKMP,1,МосБиржа акции
+22094,Лензол. ап,https://www.finam.ru/quote/moex/lnzlp/,LNZLP,1,МосБиржа акции
+82460,АбрауДюрсо,https://www.finam.ru/quote/moex/abrd/,ABRD,1,МосБиржа акции
+74549,Мостотрест,https://www.finam.ru/quote/moex/mstt/,MSTT,1,МосБиржа акции
+20107,РСетиЦП ао,https://www.finam.ru/quote/moex/mrkp/,MRKP,1,МосБиржа акции
+81857,ОргСинт ап,https://www.finam.ru/quote/moex/kzosp/,KZOSP,1,МосБиржа акции
+13855,Аптеки36и6,https://www.finam.ru/quote/moex/aptk/,APTK,1,МосБиржа акции
+20125,ЧеркизГ-ао,https://www.finam.ru/quote/moex/gche/,GCHE,1,МосБиржа акции
+81856,ОргСинт ао,https://www.finam.ru/quote/moex/kzos/,KZOS,1,МосБиржа акции
+19724,ДЭК ао,https://www.finam.ru/quote/moex/dvec/,DVEC,1,МосБиржа акции
+542,РСетиЛЭ-п,https://www.finam.ru/quote/moex/lsngp/,LSNGP,1,МосБиржа акции
+21004,Лензолото,https://www.finam.ru/quote/moex/lnzl/,LNZL,1,МосБиржа акции
+20235,РоссЦентр,https://www.finam.ru/quote/moex/mrkc/,MRKC,1,МосБиржа акции
+2819863,Ренессанс,https://www.finam.ru/quote/moex/reni/,MOEX.RENI:TQBR,1,МосБиржа акции
+510,КрасОкт-ао,https://www.finam.ru/quote/moex/krot/,KROT,1,МосБиржа акции
+18176,ТГК-14,https://www.finam.ru/quote/moex/tgkn/,TGKN,1,МосБиржа акции
+20100,НКНХ ао,https://www.finam.ru/quote/moex/nknc/,NKNC,1,МосБиржа акции
+2077391,iHHRU-адр,https://www.finam.ru/quote/moex/hhru/,HHRU,1,МосБиржа акции
+2152359,MDMG-гдр,https://www.finam.ru/quote/moex/mdmg/,MOEX.MDMG:TQBR,1,МосБиржа акции
+12983,МГТС-4ап,https://www.finam.ru/quote/moex/mgtsp/,MGTSP,1,МосБиржа акции
+928412,ETLN-гдр,https://www.finam.ru/quote/moex/etln/,ETLN,1,МосБиржа акции
+16329,КалужскСК,https://www.finam.ru/quote/moex/klsb/,KLSB,1,МосБиржа акции
+81941,Куйбазот,https://www.finam.ru/quote/moex/kazt/,KAZT,1,МосБиржа акции
+16917,РСетиМР ао,https://www.finam.ru/quote/moex/msrs/,MSRS,1,МосБиржа акции
+17597,ТГК-2,https://www.finam.ru/quote/moex/tgkb/,TGKB,1,МосБиржа акции
+81929,iНаукаСвяз,https://www.finam.ru/quote/moex/nsvz/,NSVZ,1,МосБиржа акции
+491359,ЭсЭфАй ао,https://www.finam.ru/quote/moex/sfin/,SFIN,1,МосБиржа акции
+20321,ЭнергияРКК,https://www.finam.ru/quote/moex/rkke/,RKKE,1,МосБиржа акции
+20309,РСетиСЗ ао,https://www.finam.ru/quote/moex/mrkz/,MRKZ,1,МосБиржа акции
+20101,НКНХ ап,https://www.finam.ru/quote/moex/nkncp/,NKNCP,1,МосБиржа акции
+81575,Телеграф-п,https://www.finam.ru/quote/moex/cntlp/,CNTLP,1,МосБиржа акции
+16546,ТНСэнВорон,https://www.finam.ru/quote/moex/vrsb/,VRSB,1,МосБиржа акции
+21002,Телеграф,https://www.finam.ru/quote/moex/cntl/,CNTL,1,МосБиржа акции
+4465201,ЧЗПСН ао,https://www.finam.ru/quote/moex/prfn/,MOEX.PRFN:TQBR,1,МосБиржа акции
+21001,ЧМК ао,https://www.finam.ru/quote/moex/chmk/,CHMK,1,МосБиржа акции
+20286,РсетВол ао,https://www.finam.ru/quote/moex/mrkv/,MRKV,1,МосБиржа акции
+3713632,AKMM ETF (БПИФ Альфа Денежный рынок),https://www.finam.ru/quote/moex/akmm/,MISX.AKMM,14,МосБиржа фьючерсы
+2883636,Лента ао,https://www.finam.ru/quote/moex/lent/,MOEX.LENT:TQBR,1,МосБиржа акции
+81892,СаратНПЗ-п,https://www.finam.ru/quote/moex/krknp/,KRKNP,1,МосБиржа акции
+1667866,ИНГРАД ао,https://www.finam.ru/quote/moex/ingr/,INGR,1,МосБиржа акции
+16908,ПермьЭнСб,https://www.finam.ru/quote/moex/pmsb/,PMSB,1,МосБиржа акции
+81917,ЯТЭК ао,https://www.finam.ru/quote/moex/yakg/,YAKG,1,МосБиржа акции
+20346,РсетСиб ао,https://www.finam.ru/quote/moex/mrks/,MRKS,1,МосБиржа акции
+20402,Россети Ур,https://www.finam.ru/quote/moex/mrku/,MRKU,1,МосБиржа акции
+473181,ДетскийМир,https://www.finam.ru/quote/moex/dsky/,DSKY,1,МосБиржа акции
+82493,ЮУНК ао,https://www.finam.ru/quote/moex/unkl/,UNKL,1,МосБиржа акции
+20681,РоссЮг ао,https://www.finam.ru/quote/moex/mrky/,MRKY,1,МосБиржа акции
+2216507,OKEY-гдр,https://www.finam.ru/quote/moex/okey/,MOEX.OKEY:TQBR,1,МосБиржа акции
+2775291,SBMM ETF (БПИФ Первая Сберегательный),https://www.finam.ru/quote/moex/sbmm/,MISX.SBMM,515,Мосбиржа ETF
+81942,Куйбазот-п,https://www.finam.ru/quote/moex/kaztp/,KAZTP,1,МосБиржа акции
+924987,TRUR ETF (БПИФ ТИНЬКОФФ ВЕЧНЫЙ ПОРТФ РУБ),https://www.finam.ru/quote/moex/trur/,TRUR,515,Мосбиржа ETF
+18189,ТГК-2 ап,https://www.finam.ru/quote/moex/tgkbp/,TGKBP,1,МосБиржа акции
+522,РСетКубань,https://www.finam.ru/quote/moex/kube/,KUBE,1,МосБиржа акции
+16909,ПермьЭнС-п,https://www.finam.ru/quote/moex/pmsbp/,PMSBP,1,МосБиржа акции
+82843,Авангрд-ао,https://www.finam.ru/quote/moex/avan/,AVAN,1,МосБиржа акции
+2284141,Светофор,https://www.finam.ru/quote/moex/svet/,MOEX.SVET:TQBR,1,МосБиржа акции
+181934,РГС СК ао,https://www.finam.ru/quote/moex/rgss/,RGSS,1,МосБиржа акции
+82001,ЗВЕЗДА ао,https://www.finam.ru/quote/moex/zvez/,ZVEZ,1,МосБиржа акции
+81287,НЕФАЗ,https://www.finam.ru/quote/moex/nfaz/,NFAZ,1,МосБиржа акции
+81992,iНПОНаука,https://www.finam.ru/quote/moex/nauk/,NAUK,1,МосБиржа акции
+20412,Россети СК,https://www.finam.ru/quote/moex/mrkk/,MRKK,1,МосБиржа акции
+81934,Электрцинк,https://www.finam.ru/quote/moex/eltz/,ELTZ,1,МосБиржа акции
+81997,ГАЗ ао,https://www.finam.ru/quote/moex/gaza/,GAZA,1,МосБиржа акции
+487432,ЕвроЭлтех,https://www.finam.ru/quote/moex/eelt/,EELT,1,МосБиржа акции
+81885,Ижсталь2ао,https://www.finam.ru/quote/moex/igst/,IGST,1,МосБиржа акции
+35363,ЗаводДИОД,https://www.finam.ru/quote/moex/diod/,DIOD,1,МосБиржа акции
+20030,КамчатЭ ао,https://www.finam.ru/quote/moex/kche/,KCHE,1,МосБиржа акции
+74779,ГК РБК ао,https://www.finam.ru/quote/moex/rbcm/,RBCM,1,МосБиржа акции
+81947,Нижкамшина,https://www.finam.ru/quote/moex/nksh/,NKSH,1,МосБиржа акции
+81940,Химпром ап,https://www.finam.ru/quote/moex/himcp/,HIMCP,1,МосБиржа акции
+473000,Сахэнер ао,https://www.finam.ru/quote/moex/slen/,SLEN,1,МосБиржа акции
+420644,ТНСэнрг ао,https://www.finam.ru/quote/moex/tnse/,TNSE,1,МосБиржа акции
+81901,БурЗолото,https://www.finam.ru/quote/moex/brzl/,BRZL,1,МосБиржа акции
+15522,ЮТэйр ао,https://www.finam.ru/quote/moex/utar/,UTAR,1,МосБиржа акции
+81953,УралСиб ао,https://www.finam.ru/quote/moex/usbn/,USBN,1,МосБиржа акции
+17257,ВХЗ-ао,https://www.finam.ru/quote/moex/vlhz/,VLHZ,1,МосБиржа акции
+81896,ПавлАвт ао,https://www.finam.ru/quote/moex/paza/,PAZA,1,МосБиржа акции
+152517,Левенгук,https://www.finam.ru/quote/moex/lvhk/,LVHK,1,МосБиржа акции
+81786,ИКРУСС-ИНВ,https://www.finam.ru/quote/moex/rusi/,RUSI,1,МосБиржа акции
+20637,РОСИНТЕРао,https://www.finam.ru/quote/moex/rost/,ROST,1,МосБиржа акции
+83165,КузнецкийБ,https://www.finam.ru/quote/moex/kuzb/,KUZB,1,МосБиржа акции
+81918,ЗИЛ ао,https://www.finam.ru/quote/moex/zill/,ZILL,1,МосБиржа акции
+20716,ТЗА ао,https://www.finam.ru/quote/moex/tuza/,TUZA,1,МосБиржа акции
+511,КрасОкт-1п,https://www.finam.ru/quote/moex/krotp/,KROTP,1,МосБиржа акции
+81887,Ижсталь ап,https://www.finam.ru/quote/moex/igstp/,IGSTP,1,МосБиржа акции
+4483547,ЛЭСК ао,https://www.finam.ru/quote/moex/lpsb/,MOEX.LPSB:TQPI,1,МосБиржа акции
+16456,ВолгЭнСб,https://www.finam.ru/quote/moex/vgsb/,VGSB,1,МосБиржа акции
+22525,КМЗ,https://www.finam.ru/quote/moex/kmez/,KMEZ,1,МосБиржа акции
+16455,РязЭнСб,https://www.finam.ru/quote/moex/rzsb/,RZSB,1,МосБиржа акции
+81766,Якутскэнрг,https://www.finam.ru/quote/moex/yken/,YKEN,1,МосБиржа акции
+19916,ТНСэКубань,https://www.finam.ru/quote/moex/kbsb/,KBSB,1,МосБиржа акции
+16547,ТНСэнВор-п,https://www.finam.ru/quote/moex/vrsbp/,VRSBP,1,МосБиржа акции
+20088,СтаврЭнСбп,https://www.finam.ru/quote/moex/stsbp/,STSBP,1,МосБиржа акции
+83251,ВыбСудЗ ао,https://www.finam.ru/quote/moex/vsyd/,VSYD,1,МосБиржа акции
+445,СамарЭн-ао,https://www.finam.ru/quote/moex/sago/,SAGO,1,МосБиржа акции
+81933,РН-ЗапСиб,https://www.finam.ru/quote/moex/chgz/,CHGZ,1,МосБиржа акции
+11,СаратЭн-ао,https://www.finam.ru/quote/moex/sare/,SARE,1,МосБиржа акции
+16359,МордЭнСб,https://www.finam.ru/quote/moex/mrsb/,MRSB,1,МосБиржа акции
+16783,ТНСэнРст,https://www.finam.ru/quote/moex/rtsb/,RTSB,1,МосБиржа акции
+20912,Красэсб ао,https://www.finam.ru/quote/moex/krsb/,KRSB,1,МосБиржа акции
+51,Мегион-ап,https://www.finam.ru/quote/moex/mfgsp/,MFGSP,1,МосБиржа акции
+15844,ОМЗ-ап,https://www.finam.ru/quote/moex/omzzp/,OMZZP,1,МосБиржа акции
+20717,ЮжКузб. ао,https://www.finam.ru/quote/moex/ukuz/,UKUZ,1,МосБиржа акции
+16331,ТНСэМаЭл-п,https://www.finam.ru/quote/moex/misbp/,MISBP,1,МосБиржа акции
+21000,ЧКПЗ ао,https://www.finam.ru/quote/moex/chkz/,CHKZ,1,МосБиржа акции
+12984,МГТС-5ао,https://www.finam.ru/quote/moex/mgts/,MGTS,1,МосБиржа акции
+16452,АстрЭнСб,https://www.finam.ru/quote/moex/assb/,ASSB,1,МосБиржа акции
+30,Мегион-ао,https://www.finam.ru/quote/moex/mfgs/,MFGS,1,МосБиржа акции
+901174,iММЦБ ао,https://www.finam.ru/quote/moex/gema/,GEMA,1,МосБиржа акции
+74563,МагадЭн ап,https://www.finam.ru/quote/moex/magep/,MAGEP,1,МосБиржа акции
+74745,ДонскЗР п,https://www.finam.ru/quote/moex/dzrdp/,DZRDP,1,МосБиржа акции
+16784,ТНСэнРст-п,https://www.finam.ru/quote/moex/rtsbp/,RTSBP,1,МосБиржа акции
+16265,ТамбЭнСб,https://www.finam.ru/quote/moex/tasb/,TASB,1,МосБиржа акции
+81954,Варьеган,https://www.finam.ru/quote/moex/vjgz/,VJGZ,1,МосБиржа акции
+19915,Арсагера,https://www.finam.ru/quote/moex/arsa/,ARSA,1,МосБиржа акции
+16330,ТНСэнМарЭл,https://www.finam.ru/quote/moex/misb/,MISB,1,МосБиржа акции
+19095,ЦМТ ао,https://www.finam.ru/quote/moex/wtcm/,WTCM,1,МосБиржа акции
+81906,ТКЗКК ап,https://www.finam.ru/quote/moex/krkop/,KRKOP,1,МосБиржа акции
+16342,ТНСэнЯр,https://www.finam.ru/quote/moex/yrsb/,YRSB,1,МосБиржа акции
+15723,Слав-ЯНОСп,https://www.finam.ru/quote/moex/jnosp/,JNOSP,1,МосБиржа акции
+35243,БашИнСв ап,https://www.finam.ru/quote/moex/bisvp/,BISVP,1,МосБиржа акции
+16457,ВолгЭнСб-п,https://www.finam.ru/quote/moex/vgsbp/,VGSBP,1,МосБиржа акции
+2031756,TMOS ETF (БПИФ ТИНЬКОФФ ИНДЕКС МОСБИРЖИ),https://www.finam.ru/quote/moex/tmos/,TMOS,515,Мосбиржа ETF
+20087,СтаврЭнСб,https://www.finam.ru/quote/moex/stsb/,STSB,1,МосБиржа акции
+24,СаратЭн-ап,https://www.finam.ru/quote/moex/sarep/,SAREP,1,МосБиржа акции
+16284,КСБ ао,https://www.finam.ru/quote/moex/ktsb/,KTSB,1,МосБиржа акции
+16615,ТНСэнНН ао,https://www.finam.ru/quote/moex/nnsb/,NNSB,1,МосБиржа акции
+81769,Якутскэн-п,https://www.finam.ru/quote/moex/ykenp/,YKENP,1,МосБиржа акции
+74744,ДонскЗР,https://www.finam.ru/quote/moex/dzrd/,DZRD,1,МосБиржа акции
+16343,ТНСэнЯр-п,https://www.finam.ru/quote/moex/yrsbp/,YRSBP,1,МосБиржа акции
+19096,ЦМТ ап,https://www.finam.ru/quote/moex/wtcmp/,WTCMP,1,МосБиржа акции
+83252,ВыбСудЗ ап,https://www.finam.ru/quote/moex/vsydp/,VSYDP,1,МосБиржа акции
+20498,КамчатЭ ап,https://www.finam.ru/quote/moex/kchep/,KCHEP,1,МосБиржа акции
+16797,ТРК ао,https://www.finam.ru/quote/moex/tors/,TORS,1,МосБиржа акции
+81955,Варьеган-п,https://www.finam.ru/quote/moex/vjgzp/,VJGZP,1,МосБиржа акции
+20913,Красэсб ап,https://www.finam.ru/quote/moex/krsbp/,KRSBP,1,МосБиржа акции
+81998,ГАЗ ап,https://www.finam.ru/quote/moex/gazap/,GAZAP,1,МосБиржа акции
+2703844,TGLD ETF (БПИФ ТИНЬКОФФ ЗОЛОТО),https://www.finam.ru/quote/moex/tgld/,-,-,-
+80818,Приморье,https://www.finam.ru/quote/moex/prmb/,PRMB,1,МосБиржа акции
+16798,ТРК ап,https://www.finam.ru/quote/moex/torsp/,TORSP,1,МосБиржа акции
+70,СамарЭн-ап,https://www.finam.ru/quote/moex/sagop/,SAGOP,1,МосБиржа акции
+16866,Росбанк ао,https://www.finam.ru/quote/moex/rosb/,ROSB,1,МосБиржа акции
+20710,КоршГОК ао,https://www.finam.ru/quote/moex/kogk/,KOGK,1,МосБиржа акции
+2534843,HMSG-гдр,https://www.finam.ru/quote/moex/hmsg/,MOEX.HMSG:TQBR,1,МосБиржа акции
+15722,Славн-ЯНОС,https://www.finam.ru/quote/moex/jnos/,JNOS,1,МосБиржа акции
+16266,ТамбЭнСб-п,https://www.finam.ru/quote/moex/tasbp/,TASBP,1,МосБиржа акции
+2646025,TBRU ETF (БПИФ ТИНЬКОФФ ОБЛИГАЦИИ),https://www.finam.ru/quote/moex/tbru/,MISX.TBRU,515,Мосбиржа ETF
+152350,КурганГКап,https://www.finam.ru/quote/moex/kgkcp/,KGKCP,1,МосБиржа акции
+82611,УрКузница,https://www.finam.ru/quote/moex/urkz/,URKZ,1,МосБиржа акции
+16616,ТНСэнНН ап,https://www.finam.ru/quote/moex/nnsbp/,NNSBP,1,МосБиржа акции
+2868452,СПБ Биржа,https://www.finam.ru/quote/moex/spbe/,MOEX.SPBE:TQBR,1,МосБиржа акции
+16285,КСБ ап,https://www.finam.ru/quote/moex/ktsbp/,KTSBP,1,МосБиржа акции
+1822421,ETF AKMB (БПИФ Альфа Управляем облигации),https://www.finam.ru/quote/moex/akmb/,AKMB,515,Мосбиржа ETF
+152397,ГазпРнД ао,https://www.finam.ru/quote/moex/rtgz/,RTGZ,1,МосБиржа акции
+3811557,НакопРез (ОПИФ Накопительный резерв),https://www.finam.ru/quote/moex/ru000a0jt4s1/,MOEX.RU000A0JT4S1:TQIF,29,МосБиржа пифы
+909136,SBRB ETF (БПИФ Первая Корп облигации),https://www.finam.ru/quote/moex/sbrb/,SBRB,515,Мосбиржа ETF
+3728100,OBLG ETF (БПИФ Российскиеоблигации УКВИМ),https://www.finam.ru/quote/moex/oblg/,MISX.OBLG,14,МосБиржа фьючерсы
+74562,МагадЭн ао,https://www.finam.ru/quote/moex/mage/,MAGE,1,МосБиржа акции
+4164147,ПАРУС-ЛОГ (ЗПИФ ПАРУС-ЛОГИСТИКА),https://www.finam.ru/quote/moex/ru000a105328/,MOEX.RU000A105328:TQIF,29,МосБиржа пифы
+497675,SBMX ETF (БПИФ Первая Топ Рос. акций),https://www.finam.ru/quote/moex/sbmx/,SBMX,515,Мосбиржа ETF
+4473035,ПАРУС-ДВН (ЗПИФ ПАРУС-Двинцев),https://www.finam.ru/quote/moex/ru000a1068x9/,MOEX.RU000A1068X9:TQIF,29,МосБиржа пифы
+181755,РДБанк ао,https://www.finam.ru/quote/moex/rdrb/,RDRB,1,МосБиржа акции
+4450396,Славнефть,https://www.finam.ru/quote/moex/slav/,MOEX.SLAV:MTQR,1,МосБиржа акции
+4263989,БКСКапитал (ОПИФ БКС Капитал),https://www.finam.ru/quote/moex/ru000a105tu1/,MOEX.RU000A105TU1:TQIF,29,МосБиржа пифы
+3728096,EQMX ETF (БПИФ Индекс МосБиржи УК ВИМ),https://www.finam.ru/quote/moex/eqmx/,MISX.EQMX,14,МосБиржа фьючерсы
+3728098,GOLD ETF (БПИФ Золото.Биржевой УК ВИМ),https://www.finam.ru/quote/moex/gold/,MISX.GOLD.1,14,МосБиржа фьючерсы
+571768,SBGB ETF (БПИФ Первая Гос. облигации),https://www.finam.ru/quote/moex/sbgb/,SBGB,515,Мосбиржа ETF
+18523,БКС Основа (ОПИФ БКС Основа),https://www.finam.ru/quote/moex/ru000a0jp799/,RU000A0JP799,29,МосБиржа пифы
+2839864,CIAN-адр,https://www.finam.ru/quote/moex/cian/,MOEX.CIAN:TQBR,1,МосБиржа акции
+4271198,Новошип ап,https://www.finam.ru/quote/moex/nompp/,MOEX.NOMPP:MTQR,1,МосБиржа акции
+2655082,GEMC-гдр,https://www.finam.ru/quote/moex/gemc/,MOEX.GEMC:TQBR,1,МосБиржа акции
+2222293,ETF AKME (БПИФ Альфа Управляем Рос Акции),https://www.finam.ru/quote/moex/akme/,MOEX.AKME:TQTF,515,Мосбиржа ETF
+2008079,ОПИФ ОФЗ (ОПИФ Российские Гособлигации),https://www.finam.ru/quote/moex/ru000a101uy0/,RU000A101UY0,29,МосБиржа пифы
+4282467,ОРГ ао,https://www.finam.ru/quote/moex/orup/,MOEX.ORUP:MTQR,1,МосБиржа акции
+2673171,INGO ETF (БПИФ Ингосстрах Корп облигации),https://www.finam.ru/quote/moex/ingo/,MISX.INGO,515,Мосбиржа ETF
+3905349,ПАРУС-НОРД (ЗПИФ ПАРУС-Нордвей),https://www.finam.ru/quote/moex/ru000a104ku3/,MOEX.RU000A104KU3:TQIF,29,МосБиржа пифы
+2714338,БКС РосАкц (ОПИФ БКС Российские Акции),https://www.finam.ru/quote/moex/ru000a0jp773/,MOEX.RU000A0JP773:TQIF,29,МосБиржа пифы
+4271199,НИТЕЛ ао,https://www.finam.ru/quote/moex/ntzl/,MOEX.NTZL:MTQR,1,МосБиржа акции
+83261,КурганГКао,https://www.finam.ru/quote/moex/kgkc/,KGKC,1,МосБиржа акции
+2673173,RCHY ETF (БПИФ Райф Высокодох. облигации),https://www.finam.ru/quote/moex/rchy/,MISX.RCHY,515,Мосбиржа ETF
+2314364,БСП ап,https://www.finam.ru/quote/moex/bspbp/,MOEX.BSPBP:TQBR,1,МосБиржа акции
+2077397,SUGB ETF (БПИФ МКБ – ОФЗ 1-3 г),https://www.finam.ru/quote/moex/sugb/,SUGB,515,Мосбиржа ETF
+4450397,ЗИЛ ап,https://www.finam.ru/quote/moex/zillp/,MOEX.ZILLP:MTQR,1,МосБиржа акции
+81891,СаратНПЗ,https://www.finam.ru/quote/moex/krkn/,KRKN,1,МосБиржа акции
+2913471,AKGD ETF (БПИФ Альфа Капитал Золото),https://www.finam.ru/quote/moex/akgd/,MISX.AKGD,14,МосБиржа фьючерсы
+3832065,SBGD ETF (БПИФ Первая Доступное золото),https://www.finam.ru/quote/moex/sbgd/,MISX.SBGD,14,МосБиржа фьючерсы
+4271201,ОНГГ ап,https://www.finam.ru/quote/moex/obnep/,MOEX.OBNEP:MTQR,1,МосБиржа акции
+2853574,БКСФундВыб (ОПИФ БКС Фундаментальный Выбор),https://www.finam.ru/quote/moex/ru000a1007r9/,MOEX.RU000A1007R9:TQFD,29,МосБиржа пифы
+496833,БКСИмперия (ОПИФ БКС Империя),https://www.finam.ru/quote/moex/ru000a0jvhy6/,RU000A0JVHY6,29,МосБиржа пифы
+1822136,RCMX ETF (БПИФ Райф Индекс МосБиржи 15),https://www.finam.ru/quote/moex/rcmx/,RCMX,515,Мосбиржа ETF
+3810748,BOND ETF (ДОХОДЪ Сбондс Корп. обл. РФ),https://www.finam.ru/quote/moex/bond/,MISX.BOND,14,МосБиржа фьючерсы
+4573969,SBSC ETF (БПИФ Первая Акции ср.и мал.кап),https://www.finam.ru/quote/moex/sbsc/,MISX.SBSC,14,МосБиржа фьючерсы
+4282466,ГИТ ао,https://www.finam.ru/quote/moex/grnt/,MOEX.GRNT:MTQR,1,МосБиржа акции
+2703843,СФНАрБиз7 (ПИФ СФН Арендный бизнес 7),https://www.finam.ru/quote/moex/ru000a1034u7/,MOEX.RU000A1034U7:TQPI,29,МосБиржа пифы
+499199,ИПИФМирИнв (ИПИФ Мировые инвестиции УКАтон),https://www.finam.ru/quote/moex/ru000a0zzcd8/,RU000A0ZZCD8,29,МосБиржа пифы
+2341019,ЗПИФРД (ЗПИФ РД),https://www.finam.ru/quote/moex/ru000a102n77/,MOEX.RU000A102N77:TQIF,29,МосБиржа пифы
+4454969,TMON ETF (ТИНЬКОФФ ДЕНЕЖНЫЙ РЫНОК),https://www.finam.ru/quote/moex/tmon/,MISX.TMON,14,МосБиржа фьючерсы
+3869301,RSHU ETF (БПИФ РСХБ Корп рос еврооблигац),https://www.finam.ru/quote/moex/rshu/,-,-,-
+2127225,RCMB ETF (БПИФ Райф Еврооблигации),https://www.finam.ru/quote/moex/rcmb/,MOEX.RCMB:TQTF,515,Мосбиржа ETF
+4271195,КрМЗ ао,https://www.finam.ru/quote/moex/kziz/,MOEX.KZIZ:MTQR,1,МосБиржа акции
+2582568,SBCS ETF (БПИФ Первая Консерватив смарт),https://www.finam.ru/quote/moex/sbcs/,MISX.SBCS,515,Мосбиржа ETF
+2483115,ПАРУС-ОЗН (ЗПИФ ПАРУС-ОЗН),https://www.finam.ru/quote/moex/ru000a1022z1/,MOEX.RU000A1022Z1:TQIF,29,МосБиржа пифы
+4038267,SBCN ETF (БПИФ Первая Сберегат. в юанях),https://www.finam.ru/quote/moex/sbcn/,MISX.SBCN,14,МосБиржа фьючерсы
+4271200,ОНГГ ао,https://www.finam.ru/quote/moex/obne/,MOEX.OBNE:MTQR,1,МосБиржа акции
+2877923,VEON,https://www.finam.ru/quote/moex/veon-rx/,MOEX.VEON-RX:TQBR,1,МосБиржа акции
+1974544,ЗПИФ ФПР (ЗПИФ Фонд первичных размещений),https://www.finam.ru/quote/moex/ru000a101nk4/,RU000A101NK4,29,МосБиржа пифы
+4271197,Новошип ао,https://www.finam.ru/quote/moex/nomp/,MOEX.NOMP:MTQR,1,МосБиржа акции
+4492039,ТКЗамещОбл (ЗПИФ Тинькофф Замещающие облиг),https://www.finam.ru/quote/moex/ru000a106g80/,MOEX.RU000A106G80:TQIF,29,МосБиржа пифы
+499245,СоврАрБиз3 (ПИФ Современ Арендный бизнес 3),https://www.finam.ru/quote/moex/ru000a0zz5r2/,RU000A0ZZ5R2,29,МосБиржа пифы
+2396436,BCSB ETF (БКС Облигации повыш доход),https://www.finam.ru/quote/moex/bcsb/,MOEX.BCSB:TQTF,515,Мосбиржа ETF
+74604,ПИФКазна (ПИФ Казначейский УК ВИМИнвест),https://www.finam.ru/quote/moex/ru000a0jr2c1/,RU000A0JR2C1,29,МосБиржа пифы
