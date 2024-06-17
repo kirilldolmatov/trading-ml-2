@@ -2,7 +2,7 @@ import math
 import numpy as np
 import networkx as nx
 from scipy.linalg import eig
-from tokenization import *
+from lib.tokenization import *
 
 def text_rank_preprocessing(sentence):
     return tokenize_sentence(sentence)
@@ -45,6 +45,8 @@ class TextRankSummarizer:
         self.verbose = True
 
     def __call__(self, text, target_sentences_count):
+        if len(text) == 0:
+            return ""
         original_sentences = sentenize(text)
         sentences = [self.preprocessing_function(s) for s in original_sentences]
 

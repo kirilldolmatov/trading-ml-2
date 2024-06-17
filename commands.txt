@@ -1,0 +1,10 @@
+
+docker build -t lytkinvs/news_predictions:latest .
+
+docker run lytkinvs/news_predictions:latest
+
+docker tag lytkinvs/news_predictions:latest lytkinvs/news_predictions:latest
+
+docker push lytkinvs/news_predictions:latest
+
+docker pull lytkinvs/news_predictions:latest

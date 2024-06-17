@@ -1,0 +1,12 @@
+aiogram
+selenium
+numpy
+networkx
+scipy
+spacy
+razdel
+spacy
+sklearn
+torch
+transformers
+ru-core-news-md @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_md-3.7.0/ru_core_news_md-3.7.0-py3-none-any.whl
