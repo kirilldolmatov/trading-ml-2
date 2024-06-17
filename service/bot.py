@@ -117,9 +117,11 @@ async def ml_prediction(ticker, callback):
 
     lr_pred_proba = lr_clf.predict_proba(X)
 
+    add_proba = [1 if pred[1] > 0.6 else 0 for pred in lr_pred_proba]
+    print(add_proba)
     st = (f"На сегодняшний день, новостной фон компании "
-          f"составляет <b>{sum(lr_pred)}/{len(lr_pred)}</b> баллов")
-    print(st)
+          f"составляет <b>{sum(add_proba)}/{len(add_proba)}</b> баллов")
+   
     await callback(text=st, parse_mode=ParseMode.HTML)
 
 
