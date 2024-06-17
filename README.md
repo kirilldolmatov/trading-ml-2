@@ -10,20 +10,4 @@
 
 
 
-# Сборка Docker контейнера и Push в Docker Hub
 
-## Сборка
-
-<code> docker build -t news_predictions:latest . <code> 
-
-<code> docker tag news_predictions:latest news_predictions:latest <code>
-
-<code> docker push news_predictions:latest <code>
-
-## Запуск 
-
-<code> docker run -e BOT_TOKEN="" -d news_predictions:latest <code>
-
-## Ссылка на Docker Image
-
-[Docker Image](https://hub.docker.com/r/lytkinvs/news_predictions)
